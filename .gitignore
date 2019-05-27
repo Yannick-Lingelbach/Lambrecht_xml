@@ -1,0 +1,7 @@
+## Git Ignore File
+# 
+# lists all the files/directories that should not be synced with the github repository
+
+m04_Git_test/
+m06_Git_Downloads/
+Data/
